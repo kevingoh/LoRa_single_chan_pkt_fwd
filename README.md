@@ -2,6 +2,10 @@
 
 Please note this repository is deprecated, and the code is not up-to-date to use on The Things Network.
 
+Supporting Reasons:
+* https://www.thethingsnetwork.org/forum/t/single-channel-packet-forwarders-scpf-are-obsolete-and-not-supported/31117
+* https://www.thethingsnetwork.org/docs/gateways/start/single-channel/
+
 This repository will not be further maintained. Please find another repository if you want to deploy a single channel gateway.
 
 
